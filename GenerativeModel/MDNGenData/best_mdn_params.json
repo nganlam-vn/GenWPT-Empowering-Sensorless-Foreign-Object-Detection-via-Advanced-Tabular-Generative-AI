@@ -1,0 +1,6 @@
+{
+    "n_components": 3,
+    "hidden_dim": 32,
+    "lr": 0.003393139217844461,
+    "batch_size": 16
+}

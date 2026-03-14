@@ -1,0 +1,15 @@
+{
+    "booster": "gbtree",
+    "n_estimators": 1057,
+    "learning_rate": 0.018165277684799717,
+    "max_depth": 3,
+    "gamma": 0.3704104751907109,
+    "min_child_weight": 11,
+    "subsample": 0.9781186398551414,
+    "colsample_bytree": 0.9223334880726627,
+    "reg_alpha": 0.0001420368364038828,
+    "reg_lambda": 0.00038001485725141224,
+    "objective": "multi:softprob",
+    "num_class": 11,
+    "random_state": 30
+}

@@ -1,0 +1,19 @@
+{
+    "boosting_type": "dart",
+    "n_estimators": 890,
+    "learning_rate": 0.012897044221305632,
+    "max_depth": 5,
+    "num_leaves": 243,
+    "lambda_l1": 0.0005045968709797496,
+    "lambda_l2": 0.0004008193829327053,
+    "min_child_samples": 45,
+    "feature_fraction": 0.8797725897601364,
+    "bagging_fraction": 0.945227076723318,
+    "bagging_freq": 7,
+    "min_split_gain": 0.7590352582076244,
+    "objective": "multiclass",
+    "num_class": 11,
+    "metric": "multi_logloss",
+    "verbosity": -1,
+    "random_state": 30
+}

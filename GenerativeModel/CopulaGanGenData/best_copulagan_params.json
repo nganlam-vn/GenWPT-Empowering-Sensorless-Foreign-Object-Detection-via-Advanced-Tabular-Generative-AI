@@ -1,0 +1,7 @@
+{
+    "embedding_dim": 128,
+    "batch_size": 50,
+    "epochs": 300,
+    "g_dims": 2,
+    "d_dims": 1
+}
