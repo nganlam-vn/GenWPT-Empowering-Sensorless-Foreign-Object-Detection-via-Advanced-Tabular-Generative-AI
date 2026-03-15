@@ -18,7 +18,7 @@ Ensuring operational safety in EV charging relies on reliable MFO detection. Con
 
 ---
 
-## 🚀 2. Features and Functionality
+## 2. Features and Functionality
 The project operates as a rigorous backend algorithmic pipeline focused on machine learning efficacy:
 
 * **High-Fidelity Tabular Data Synthesis:** Automatically synthesizes complex, multidimensional data rows representing spatial classes, load conditions ($RL$), and efficiency metrics ($\eta$).
@@ -28,7 +28,7 @@ The project operates as a rigorous backend algorithmic pipeline focused on machi
 
 ---
 
-## 🛠 3. Development Tools and Techniques
+## 3. Development Tools and Techniques
 
 ### Generative AI Architectures
 We implement, fine-tune (via **Optuna**), and benchmark six specialized Tabular GenAI models:
@@ -53,13 +53,13 @@ We implement, fine-tune (via **Optuna**), and benchmark six specialized Tabular 
 
 ---
 
-## 📈 5. Industry Application & Impact
+## 5. Industry Application & Impact
 * **Commercial Value:** Complete elimination of physical sensor arrays (thermal/magnetic), directly reducing manufacturing costs[cite: 3].
 * **Safety & Trust:** Maximizes charging safety, prevents hardware degradation/fire hazards, and accelerates consumer trust in autonomous EV charging.
 
 ---
 
-## 📚 References
+## References
 * **Foundational Research:** Ho & Dat (2025). *Establishing a baseline mapping of real-time efficiency drops for sensorless detection*.
 
 ---
